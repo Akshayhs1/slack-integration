@@ -1,1 +1,1 @@
-print("Hello VVCE mysuru")
+print("Hello VVCE")
